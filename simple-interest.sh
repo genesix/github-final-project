@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Collins Chukwuebuka Anibuko
    # Additional Authors:
-   # <your GitHub username>
+   # genesix
 
    # Input:
    # p, principal amount
